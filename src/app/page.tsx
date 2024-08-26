@@ -31,7 +31,7 @@ export default function Home() {
             <li>Is premium: {userData.is_premium}</li>
           </ul>
 
-          <p>{data}</p>
+          <p> data: {data}</p>
         </>
         :
         <h1>Loading ...</h1>}
